@@ -1,0 +1,19 @@
+# Ignore large datasets
+librivox/
+*.wav
+*.mp3
+*.flac
+*.zip
+
+# Ignore macOS junk
+.DS_Store
+._* 
+
+# VSCode stuff
+.vscode/
+
+# Ignore venv and python stuff
+venv/
+__pycache__/
+*.pyc
+voice-data/librivox/raw/
