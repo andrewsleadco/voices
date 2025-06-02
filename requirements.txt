@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+tqdm
+ffmpeg-python
+sox
+montreal-forced-aligner
+pandas
+unidecode
